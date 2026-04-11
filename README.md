@@ -16,33 +16,20 @@
 
 ---
 
-## 💫 About Me
+## 🐾 About Me
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name        = "Mohak Agrawal"
-        self.degree      = "B.Tech AIML | 2nd Year"
-        self.location    = "India 🇮🇳"
-        self.passions    = ["Machine Learning", "Deep Learning", "Data Science"]
-        self.goal        = "Build impactful, data-driven AI solutions"
-        self.currently   = "Exploring Neural Networks & model deployment"
+- 🎓 **B.Tech AIML Student | 2nd Year**
+- 💡 Passionate about **Machine Learning, Deep Learning & Data Science**
+- 🔭 Currently building **ML projects** and strengthening **DSA foundations**
+- 🧠 Exploring **Neural Networks, Data Analysis & AI-driven problem solving**
+- 🎯 Goal: Build **impactful, data-driven solutions** and grow into an **AI Engineer**
+- 📍 India 🇮🇳
 
-    def say_hi(self):
-        print("Thanks for visiting! Let's build something intelligent together 🚀")
-
-me = AIEngineer()
-me.say_hi()
-```
-
----
-
-## 🔭 Currently Working On
-
-- 🤖 **Deep Learning** — CNNs, RNNs & model deployment
-- 📊 **Data Science & ML Projects** — building real-world portfolio
-- 🧩 **DSA Practice** — daily grind to crack product-based interviews
-- 💼 **Open to Internships** — AI/ML & Data Science opportunities
+> *"I'm currently working on"*
+> - 🤖 Learning Deep Learning concepts — CNNs, RNNs & model deployment
+> - 📊 Building real-world Data Science & ML projects for my portfolio
+> - 🧩 Practicing DSA daily to crack product-based company interviews
+> - 💼 Looking for internship opportunities in AI/ML & Data Science
 
 ---
 
@@ -50,7 +37,7 @@ me.say_hi()
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohak-agrawal-1a0824329)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohak1206)
 
 
@@ -68,18 +55,12 @@ me.say_hi()
 ### 📊 Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00d4ff?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🧰 Tools & IDEs
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
 
 ### 🧠 Concepts
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-00d4ff?style=for-the-badge)
@@ -95,14 +76,15 @@ me.say_hi()
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohak1206&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohak1206&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohak1206&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -112,7 +94,7 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mohak1206&theme=tokyonight&no-frame=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -122,13 +104,24 @@ me.say_hi()
 
 <div align="center">
 
-| 🧩 DSA | 🤖 ML | 📊 Data | 🐍 Python | 📓 Jupyter | 🚀 Open Source |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Problem Solver** | **Model Builder** | **Explorer** | **Practitioner** | **Notebook Ninja** | **Contributor** |
+<table>
+  <tr>
+    <td align="center" width="120">🧩<br/><b>DSA</b><br/><sub>Problem Solver</sub></td>
+    <td align="center" width="120">🤖<br/><b>ML</b><br/><sub>Model Builder</sub></td>
+    <td align="center" width="120">📊<br/><b>Data</b><br/><sub>Explorer</sub></td>
+    <td align="center" width="120">🐍<br/><b>Python</b><br/><sub>Practitioner</sub></td>
+    <td align="center" width="120">📓<br/><b>Jupyter</b><br/><sub>Notebook Ninja</sub></td>
+    <td align="center" width="120">🚀<br/><b>Open Source</b><br/><sub>Contributor</sub></td>
+  </tr>
+</table>
 
-| 🧠 Lifelong | 📈 Stats & EDA | 💡 Project |
-|:---:|:---:|:---:|
-| **Learner** | **Enthusiast** | **Builder** |
+<table>
+  <tr>
+    <td align="center" width="120">🧠<br/><b>Lifelong</b><br/><sub>Learner</sub></td>
+    <td align="center" width="120">📈<br/><b>Stats & EDA</b><br/><sub>Enthusiast</sub></td>
+    <td align="center" width="120">💡<br/><b>Project</b><br/><sub>Builder</sub></td>
+  </tr>
+</table>
 
 </div>
 
@@ -138,7 +131,7 @@ me.say_hi()
 
 <div align="center">
 
-[![](https://github-contributor-stats.vercel.app/api?username=YOUR_USERNAME&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/YOUR_USERNAME)
+[![](https://github-contributor-stats.vercel.app/api?username=mohak1206&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/mohak1206)
 
 </div>
 

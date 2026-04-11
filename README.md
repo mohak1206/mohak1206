@@ -21,7 +21,7 @@
 ```python
 class AIEngineer:
     def __init__(self):
-        self.name        = "Your Name"
+        self.name        = "Mohak Agrawal"
         self.degree      = "B.Tech AIML | 2nd Year"
         self.location    = "India 🇮🇳"
         self.passions    = ["Machine Learning", "Deep Learning", "Data Science"]
@@ -51,8 +51,8 @@ me.say_hi()
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohak1206)
+
 
 </div>
 

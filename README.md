@@ -92,41 +92,39 @@
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohak1206&theme=tokyonight&no-frame=true&margin-w=10&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
 ## 🏅 Achievements
 
 <div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="120">🧩<br/><b>DSA</b><br/><sub>Problem Solver</sub></td>
-    <td align="center" width="120">🤖<br/><b>ML</b><br/><sub>Model Builder</sub></td>
-    <td align="center" width="120">📊<br/><b>Data</b><br/><sub>Explorer</sub></td>
-    <td align="center" width="120">🐍<br/><b>Python</b><br/><sub>Practitioner</sub></td>
-    <td align="center" width="120">📓<br/><b>Jupyter</b><br/><sub>Notebook Ninja</sub></td>
-    <td align="center" width="120">🚀<br/><b>Open Source</b><br/><sub>Contributor</sub></td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td align="center" width="120">🧠<br/><b>Lifelong</b><br/><sub>Learner</sub></td>
-    <td align="center" width="120">📈<br/><b>Stats & EDA</b><br/><sub>Enthusiast</sub></td>
-    <td align="center" width="120">💡<br/><b>Project</b><br/><sub>Builder</sub></td>
-  </tr>
-</table>
-
+<img src="https://img.shields.io/badge/DSA%20Grinder-Problem%20Solver-00d4ff?style=for-the-badge" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/ML%20Builder-Model%20Architect-ff6b9d?style=for-the-badge" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Data%20Explorer-EDA%20Enthusiast-0d76a8?style=for-the-badge" />
+<br/><br/>
+ 
+<img src="https://img.shields.io/badge/Py%20Wizard-Python%20Expert-3776AB?style=for-the-badge" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Jupyter%20Monk-Notebook%20Ninja-F37626?style=for-the-badge" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-7c3aed?style=for-the-badge" />
+<br/><br/>
+ 
+<img src="https://img.shields.io/badge/Lifelong%20Learner-Never%20Stops-ff6b9d?style=for-the-badge" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Stats%20Nerd-p%20%3C%200.05-00d4ff?style=for-the-badge" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Project%20Builder-Ships%20Things-F9AB00?style=for-the-badge" />
+<br/><br/>
+ 
+<img src="https://img.shields.io/badge/Debug%20Master-Rubber%20Duck-F37626?style=for-the-badge" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/DSA%20Streak-Daily%20Grinder-e05c2a?style=for-the-badge" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Goal%20Setter-Dream%20Chaser-16a34a?style=for-the-badge" />
 </div>
 
 ---

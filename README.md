@@ -132,15 +132,15 @@
 ## 🔝 Top Contributed Repo
 
 <div align="center">
-
-[![](https://github-contributor-stats.vercel.app/api?username=mohak1206&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)](https://github.com/mohak1206)
-
+<a href="https://github.com/mohak1206/Arogya-Maps">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohak1206&repo=Arogya-Maps&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=7ecfff&icon_color=ff6b9d" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/mohak1206/inventory">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mohak1206&repo=inventory&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=7ecfff&icon_color=ff6b9d" />
+</a>
 </div>
 
----
 
-<div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer)
 
-</div>

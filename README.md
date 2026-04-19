@@ -1,4 +1,3 @@
-
 <div align="center">
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,25:0a0a2e,60:0d1b4b,100:0f3460&height=260&section=header&text=Mohak%20Agrawal&fontSize=75&fontColor=00d4ff&fontAlignY=42&desc=⟨%20Aspiring%20AI%20Engineer%20%7C%20ML%20%7C%20Deep%20Learning%20%7C%20Data%20Science%20⟩&descAlignY=62&descSize=17&descColor=7ecfff&animation=fadeIn)
  

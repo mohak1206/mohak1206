@@ -23,7 +23,7 @@
 ## 🐾 About Me
 
 - 🎓 **B.Tech AIML Student | 2nd Year**
-- 💡 Passionate about **Machine Learning, Deep Learning & Data Science**
+- 💡 Passionate about **Machine Learning, Deep Learning, AI & Data Science**
 - 🔭 Currently building **ML projects** and strengthening **DSA foundations**
 - 🧠 Exploring **Neural Networks, Data Analysis & AI-driven problem solving**
 - 🎯 Goal: Build **impactful, data-driven solutions** and grow into an **AI Engineer**

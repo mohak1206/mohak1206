@@ -2,15 +2,6 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Mohak%20Agrawal&fontSize=70&fontColor=00d4ff&fontAlignY=38&desc=Aspiring%20AI%20Engineer%20%7C%20ML%20%7C%20Deep%20Learning%20%7C%20Data%20Science&descAlignY=58&descSize=18&descColor=ffffff&animation=fadeIn)
 
-</div>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8af87fe1-ec83-468a-a2ba-d133747e841c" width="800"/>
-</p>
-
----
-
-<div align="center">
 
 # 🤖 Aspiring AI Engineer 📊
 

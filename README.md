@@ -17,13 +17,12 @@
 - 💡 Passionate about **Machine Learning, Deep Learning, AI & Data Science**
 - 🔭 Currently building **ML projects** and strengthening **DSA foundations**
 - 🧠 Exploring **Neural Networks, Data Analysis & AI-driven problem solving**
-- 🎯 Goal: Build **impactful, data-driven solutions** and grow into an **AI Engineer**
+- 🎯 Goal: Build **Impactful, data-driven solutions** and grow into an **AI Engineer**
 - 📍 India 🇮🇳
 
 > *"I'm currently working on"*
 > - 🤖 Learning Deep Learning concepts — CNNs, RNNs & model deployment
 > - 📊 Building real-world Data Science & ML projects for my portfolio
-> - 🧩 Practicing DSA daily to crack product-based company interviews
 > - 💼 Looking for internship opportunities in AI/ML & Data Science
 
 ---
